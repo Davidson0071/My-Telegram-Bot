@@ -1,0 +1,28 @@
+{
+
+  "name": "my-telegram-bot",
+
+  "version": "0.0.1",
+
+  "description": "My Telegram Bot",
+
+  "main": "bot.py",
+
+  "scripts": {
+
+    "start": "python bot.py"
+
+  },
+
+  "dependencies": {
+
+    "praw": "^7.4.0",
+
+    "requests": "^2.26.0",
+
+    "python-telegram-bot": "^13.7"
+
+  }
+
+}
+
