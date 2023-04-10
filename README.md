@@ -10,7 +10,7 @@ Uses the OpenAI GPT-3 API to generate responses to your questions and statements
 
 Written in Python using the PRAW, requests, and python-telegram-bot libraries
 
-Hosted on Glitch for easy deployment
+Hosted on Glitch for easy deployment but you can use pythonanywhere 
 
 Usage
 
